@@ -29,3 +29,21 @@ git commit -m "Final Lab. 1 by Romanov"
 
 ### 6. Запушил изменения в удалённый репозиторий
 <img width="1375" height="243" alt="5" src="https://github.com/user-attachments/assets/221b4e7a-90ac-493b-a7bc-5bb551ea735a" />
+
+
+
+## Лабораторная работа № 2
+
+<img width="722" height="338" alt="1" src="https://github.com/user-attachments/assets/7e488d35-4191-4fbe-a591-855f0a94397b" />
+
+<img width="728" height="414" alt="2" src="https://github.com/user-attachments/assets/f4fcb6b5-96b4-4df2-9924-7cd643252ed5" />
+
+<img width="725" height="411" alt="3" src="https://github.com/user-attachments/assets/cd2e5994-86d6-499f-af67-28688bb53d24" />
+
+<img width="722" height="413" alt="4" src="https://github.com/user-attachments/assets/4b55ccf3-54f2-4a07-bf18-e0951cb767a0" />
+
+<img width="727" height="366" alt="5" src="https://github.com/user-attachments/assets/cc12ab2a-9547-4b80-a874-194a8fdede96" />
+
+<img width="646" height="908" alt="6" src="https://github.com/user-attachments/assets/f2cd3294-32a6-473d-8cef-00f8707e0ebf" />
+
+<img width="1168" height="982" alt="7" src="https://github.com/user-attachments/assets/17ff3044-a1da-42e7-9129-666ca85a992d" />
