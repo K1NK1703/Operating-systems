@@ -38,8 +38,6 @@ git commit -m "Final Lab. 1 by Romanov"
 
 <img width="728" height="414" alt="2" src="https://github.com/user-attachments/assets/f4fcb6b5-96b4-4df2-9924-7cd643252ed5" />
 
-<img width="725" height="411" alt="3" src="https://github.com/user-attachments/assets/cd2e5994-86d6-499f-af67-28688bb53d24" />
-
 <img width="722" height="413" alt="4" src="https://github.com/user-attachments/assets/4b55ccf3-54f2-4a07-bf18-e0951cb767a0" />
 
 <img width="727" height="366" alt="5" src="https://github.com/user-attachments/assets/cc12ab2a-9547-4b80-a874-194a8fdede96" />
