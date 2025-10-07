@@ -45,3 +45,22 @@ git commit -m "Final Lab. 1 by Romanov"
 <img width="646" height="908" alt="6" src="https://github.com/user-attachments/assets/f2cd3294-32a6-473d-8cef-00f8707e0ebf" />
 
 <img width="1168" height="982" alt="7" src="https://github.com/user-attachments/assets/17ff3044-a1da-42e7-9129-666ca85a992d" />
+
+
+
+## Лабораторная работа № 3
+
+### 2.i-ii. Создать файл-отчёт по тестированию студентов за 2025 год по двум предметам Преподавателя. В конце файла добавить информацию об общем количестве троек (оценка == 3) за последние три года (23-25 гг.) по всем тестам
+<img width="962" height="855" alt="1" src="https://github.com/user-attachments/assets/5ecc86a0-53ad-454e-8088-f45a3d2c622c" />
+
+<img width="956" height="986" alt="2" src="https://github.com/user-attachments/assets/8631675e-2eb4-456f-8020-ccabd48b739e" />
+
+<img width="963" height="509" alt="3" src="https://github.com/user-attachments/assets/568a15fd-61b4-48d8-bc2d-f2b04b606344" />
+
+### 3.i-ii. С помощью текстового редактора sed исправить в лучшую сторону свои итоговые положительные оценки по тестам в исходных файлах TEST-N. С помощью текстового редактора sed улучшить свою посещаемость в файле -attendance.
+<img width="968" height="274" alt="4" src="https://github.com/user-attachments/assets/2071fff4-d932-4258-a100-d2422fe7dd11" />
+
+### 3.iii. С помощью редактора vim улучшить своё досье в заметках преподавателя в директории /students/general/notes/.
+<img width="965" height="315" alt="5" src="https://github.com/user-attachments/assets/c35d5788-6058-425c-a292-86d1fbe5f189" />
+
+<img width="965" height="317" alt="6" src="https://github.com/user-attachments/assets/886ef891-4bb0-4b3c-8c28-d93eddbcd879" />
