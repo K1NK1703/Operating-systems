@@ -51,11 +51,13 @@ git commit -m "Final Lab. 1 by Romanov"
 ## Лабораторная работа № 3
 
 ### 2.i-ii. Создать файл-отчёт по тестированию студентов за 2025 год по двум предметам Преподавателя. В конце файла добавить информацию об общем количестве троек (оценка == 3) за последние три года (23-25 гг.) по всем тестам
-<img width="962" height="855" alt="1" src="https://github.com/user-attachments/assets/5ecc86a0-53ad-454e-8088-f45a3d2c622c" />
+<img width="733" height="348" alt="1" src="https://github.com/user-attachments/assets/0b8e01b3-d9bb-4531-90cd-126a591e6feb" />
 
-<img width="956" height="986" alt="2" src="https://github.com/user-attachments/assets/8631675e-2eb4-456f-8020-ccabd48b739e" />
+<img width="737" height="232" alt="2" src="https://github.com/user-attachments/assets/55326add-9301-43e4-932a-7c303b349bde" />
 
-<img width="963" height="509" alt="3" src="https://github.com/user-attachments/assets/568a15fd-61b4-48d8-bc2d-f2b04b606344" />
+<img width="724" height="399" alt="3" src="https://github.com/user-attachments/assets/71d09838-7fc4-4387-980e-0021f4643a48" />
+
+<img width="730" height="322" alt="4" src="https://github.com/user-attachments/assets/78fd8918-c756-46ce-a97b-cb193ad4220a" />
 
 ### 3.i-ii. С помощью текстового редактора sed исправить в лучшую сторону свои итоговые положительные оценки по тестам в исходных файлах TEST-N. С помощью текстового редактора sed улучшить свою посещаемость в файле -attendance.
 <img width="968" height="274" alt="4" src="https://github.com/user-attachments/assets/2071fff4-d932-4258-a100-d2422fe7dd11" />
